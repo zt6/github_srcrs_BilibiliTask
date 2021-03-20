@@ -45,7 +45,7 @@ public class SendPushPlus {
 
         /* pJson.put("template", "html"); */
         HttpUriRequest httpPost = RequestBuilder.get()
-                                                .setUri("http://pushplus.hxtrip.com/send")
+                                                .setUri("http://www.pushplus.plus/send")
                                                 .addParameters(Request.getPairList(pJson))
                                                 .build();
 

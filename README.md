@@ -205,7 +205,9 @@ SENDKEY | xxxxx
 
 ### 使用`push+`推送运行结果到微信
 
-`push+`官网：`https://pushplus.hxtrip.com`
+> 注意：pushplus进行了升级，查看[pushplus 后续暂停维护通知](https://mp.weixin.qq.com/s/XbWih4Mv5ggBPGg0-QBJJw)
+
+`push+`官网：`http://www.pushplus.plus`
 
 + 进入官网首页点击`一对一推送`，用微信扫描其二维码，进行关注
 
